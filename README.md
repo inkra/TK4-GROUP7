@@ -2,9 +2,9 @@
 PROGRAM JAVA UNTUK MENINGKATKAN EFISIENSI OPERASIONAL USAHA LAUNDRY
 
 <h2>LINK PPT</h2>
-<a href="https://docs.google.com/presentation/d/1XPX6la-vaoYHhX0336eZtxHeO3X3k8tf/edit?usp=sharing&ouid=106728795982048001044&rtpof=true&sd=true">
+<a href="https://docs.google.com/presentation/d/1XPX6la-vaoYHhX0336eZtxHeO3X3k8tf/edit?usp=sharing&ouid=106728795982048001044&rtpof=true&sd=true">Link PPT Group 7 </a>
 
-<h2>ANGGOTA KELOMPOK</h2>
+<h2>ANGGOTA KELOMPOK 7</h2>
 Angelyque Dwikayana (2702352036) <br>
 Inkra Andini Firmansyah (2702352326) <br>
 I Nyoman Sadhu Gunawan (2702353732) <br>
