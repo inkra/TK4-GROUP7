@@ -1,5 +1,11 @@
-# TK4-GROUP7
+![image](https://github.com/inkra/TK4-GROUP7/assets/65702027/16036cf3-3fa6-4070-9f18-1e94958cf4bf)# TK4-GROUP7
 PROGRAM JAVA UNTUK MENINGKATKAN EFISIENSI OPERASIONAL USAHA LAUNDRY
+
+<h2>ANGGOTA KELOMPOK</h2>
+Angelyque Dwikayana (2702352036)
+Inkra Andini Firmansyah (2702352326)
+I Nyoman Sadhu Gunawan (2702353732)
+Naufal Dany Kurniawan (2702382524)
 
 
 <h2>DIAGRAM LAUNDRY</h2>
